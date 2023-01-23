@@ -1,0 +1,91 @@
+sistema di collegamento dati tramite device automatici i device mandano informazioni ad altri device
+
+benefici e automatico
+
+migiore analisi
+
+migliora sicurezza
+
+rischi
+
+espongono i dati su internet 
+
+i device sono molto diversi tra loro
+
+puo avere ripercussioni legali
+
+
+
+iot si pouo usare per ottimizzare il risparmio enegetico modificando comportamento device date delle regole
+
+i device si possono collegare in diversi modi
+
+es reti mobili 
+ragungibile ovunque 
+
+rete wifi
+quasi tutti possono
+
+lpwan bassa frequenza
+difficile ma funziona bene
+
+bluetooth 
+range predefinito
+
+
+come manda i dati
+
+mqtt: protocollo leggero manda messaggi a una coda online quando qualcuno si cnnete si legge il messagio e poi si toglie dalla coda
+ogni device puo avere le sue code possono tenere milioni di messaggi
+
+
+coap: comunica sulla stessa rete usata con bluethoot non memorizza
+
+amqp:simile a mqtt
+
+
+sequrity
+
+esiste anche mqtts
+
+il device deve confermarsi con un certificato con una chiave privata
+
+se e in una rete locale devo proteggerla 
+
+
+aws iot
+
+e un sevizio che semplifica 
+
+espne una coda e facilita la gestione dei certificati
+
+amazon crea la coda e il server e i dispositivi posono usare metodi publish o subscribe 
+
+posso collegarmi solo alla coda machine 
+
+la coda salva i dati anche su un data base 
+
+
+aws e mqtt
+
+
+
+
+i dati inviati vanno letti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
